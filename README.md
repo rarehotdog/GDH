@@ -22,6 +22,8 @@ All original branches and commit history are preserved. Original PR metadata,
 reviews and patches are preserved under [migration archive](docs/migration-archive/README.md).
 Historical source URLs in that archive are attribution, not execution dependencies.
 Use [personal hosting](docs/PERSONAL_HOSTING.md) for current setup and deployment.
+The repository is now standalone (`fork: false`); see
+[independent migration](docs/INDEPENDENT_MIGRATION.md) for IDs, retained forks and verification.
 
 ## 1. Project Description (5-Sentence Hackathon Submission Summary)
 
