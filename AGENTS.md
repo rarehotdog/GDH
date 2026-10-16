@@ -47,3 +47,4 @@ G1 13:10 engine end to end on the fixed input, AT-03..AT-07 green. G2 14:00 depl
 ## Lessons (append-only; newest at the bottom)
 Format: [HH:MM] [lane] what broke or surprised us > what we changed > which test now catches it.
 - [12:15] [all] (first entry written at kickoff)
+- [23:15] [A3] CSS-scaled wafer canvases selected neighboring cells on narrow phones, and blueprint controls overflowed at 320px > normalize pointer coordinates to render dimensions and constrain/wrap blueprint controls > paired rehearsal-store scripts/verify-ui.mjs now checks 1440px mouse and 390px/320px DPR-2 touch, actual swarm motion, playback, sweep completion, Top 1% pixels and 10,000-row CSV exports.
